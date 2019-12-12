@@ -394,9 +394,8 @@ print (suma)
 
 ### Intro
 
-En la sección **El problema** está el enunciado y solución esperada de la antígua prueba de nivel. Ahora lo utilizaremos en Ironhack Madrid para que compruebes si has adquirido bien los conceptos de las secciones anteriores y si sabes ponerlos en práctica. 
+En la sección **El problema** está el enunciado y solución esperada de la antígua prueba de nivel. Ahora lo utilizaremos en Ironhack Mexico para que compruebes si has adquirido bien los conceptos de las secciones anteriores y si sabes ponerlos en práctica. 
 
-Una vez hayas resuelto el problema, envía tu solución a admissions de Ironhack Madrid (mad@ironhack.com) y reserva tu cita para la prueba técnica [aquí](https://calendly.com/ta-data-mad/30min/01-22-2019). 
 
 
 ### El problema
